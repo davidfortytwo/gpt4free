@@ -18,15 +18,20 @@ conversations.pkl
 accounts.txt
 
 .idea/
-
 **/__pycache__/
-
 __pycache__/
 
+dist/
 *.log
+*.pyc
+*.egg-info/
+*.egg
+*.egg-info
+build
 
+test.py
+update.py
 cookie.json
 
-*.pyc
-
-dist/
+# Emacs crap
+*~
